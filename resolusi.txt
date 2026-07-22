@@ -4,4 +4,4 @@ resolusi 2026
 - naik haji
 - membuat produk
 
-
+- membuat AI
