@@ -6,3 +6,5 @@ resolusi 2026
 
 - membuat AI
 - membuat perusahaan
+
+
