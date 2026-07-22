@@ -4,4 +4,5 @@ resolusi 2026
 - naik haji
 - membuat produk
 - istikomah dalam berbuat baik
-- membuat website
+- membuat aplikasi
+
